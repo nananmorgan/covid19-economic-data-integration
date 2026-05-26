@@ -41,3 +41,9 @@ Python, pandas, requests, BeautifulSoup, sqlite3, matplotlib
 1. Install dependencies: `pip install pandas requests beautifulsoup4 matplotlib`
 2. Run the notebooks in order: `01` through `04`
 3. Note that Milestone 3 requires the saved MacroTrends HTML file to be present in the working directory. Milestone 4 requires a valid API Ninjas API key set as a variable in the notebook
+  
+---
+  
+*Part of my [Data Science Portfolio](https://github.com/nananmorgan/data-science-portfolio)*
+  
+---
